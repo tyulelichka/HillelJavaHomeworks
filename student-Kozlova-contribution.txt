@@ -1,0 +1,1 @@
+Viktoriia Kozlova: Git branches let me work on changes without touching main.
